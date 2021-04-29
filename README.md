@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python, Node.js, MongodB, Javascript, and React
 - 💞️ I’m looking to collaborate on ...any project looking for new collaborators. I'm eager to contribute to this community and learn as much as I can!
 - 📫 How to reach me ... here on Github, Twitter: https://twitter.com/PhilOh_K or Email: philip_hobobo@outlook.com
-Also check out my site about certain aspects of Japanese Culture in Spanish: https://gentle-cove-45249.herokuapp.com/
+- Also check out my site about certain aspects of Japanese Culture in Spanish: https://gentle-cove-45249.herokuapp.com/
 <!---
 philip-hobobo/philip-hobobo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
